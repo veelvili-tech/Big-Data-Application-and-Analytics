@@ -128,12 +128,12 @@ hbase(main):029:0> scan 'GreenHouseGasAnnual', {
 
 | Finding | Detail |
 |---|---|
-| 🏆 Largest emitted gas | **Carbon Dioxide (CO2)** — in both 2022 and 2023 |
-| 🌏 Largest CO2 producing region | **Asia** |
-| ⚡ Biggest industry contributor in Asia | **Energy sector (EnergyCS)** — emissions increased from 2022 to 2023 |
-| 🌿 Least emitting region | **Australia & New Zealand (ANZ)** |
-| 🔬 Least emitted gas | **Fluorinated Gases (FG)** — mainly from Manufacturing industry |
-| 💧 Least CO2 contributing industry | **Water supply, sewerage & waste management (WWS)** |
+|  Largest emitted gas | **Carbon Dioxide (CO2)** — in both 2022 and 2023 |
+|  Largest CO2 producing region | **Asia** |
+|  Biggest industry contributor in Asia | **Energy sector (EnergyCS)** — emissions increased from 2022 to 2023 |
+|  Least emitting region | **Australia & New Zealand (ANZ)** |
+|  Least emitted gas | **Fluorinated Gases (FG)** — mainly from Manufacturing industry |
+|  Least CO2 contributing industry | **Water supply, sewerage & waste management (WWS)** |
 
 ---
 
@@ -145,20 +145,3 @@ hbase(main):029:0> scan 'GreenHouseGasAnnual', {
 - **Data cleaning and preprocessing** for large unstructured datasets
 - **Analytical querying** and insight generation from NoSQL databases
 - Understanding of **distributed storage** concepts (HDFS, Hadoop)
-
----
-
-## 📁 Repository Structure
-```
-├── README.md
-├── Assignment_1_Veelvili.pdf        # Full assignment with screenshots
-└── data/
-    └── Task_1.csv                   # Preprocessed dataset (223 records)
-```
-
----
-
-## 👤 Author
-**Veelvili Sambathu**
-Master of Data Science | University Malaya
-veelvili.tech@gmail.com
