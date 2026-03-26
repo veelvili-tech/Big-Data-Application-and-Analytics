@@ -1,6 +1,4 @@
-# Big-Data-Application-and-Analytics
-
-# 🌍 Big Data Analysis — Greenhouse Gas Emissions
+# Big Data Analysis — Greenhouse Gas Emissions
 ## WQD7009 Big Data Application and Analytics | University Malaya
 
 ---
